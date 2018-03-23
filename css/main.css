@@ -224,7 +224,7 @@ span.title{
 /*event*/
 
 .event{
-	background-image: url(http://picsum.photos/1920/1080);
+	background-image: url(http://picsum.photos/1920/1080?random);
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-position: center center;
